@@ -1,0 +1,16 @@
+.counter
+{
+    border:1px solid black;
+    height: 500px;
+    width:500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+}
+.maincounter
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
